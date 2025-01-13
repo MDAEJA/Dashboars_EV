@@ -21,7 +21,7 @@ A feature-rich and responsive dashboard application built using React. This proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dashboard.git
+   git clone https://github.com/MDAEJA/Dashboars_EV.git
    ```
 
 2. Navigate to the project directory:
